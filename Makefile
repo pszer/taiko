@@ -4,7 +4,7 @@ CFLAGS=
 SDIR=src
 ODIR=src/obj
 
-_OBJ = core.o render.o tex.o dynamic-vec.o filesys.o input.o taiko.o font.o
+_OBJ = core.o render.o tex.o dynamic-vec.o filesys.o input.o taiko.o beatmap.o font.o
 OBJ = $(patsubst %,$(ODIR)/%,$(_OBJ))
 
 OUTPUT = taiko

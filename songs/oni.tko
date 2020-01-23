@@ -1,0 +1,94 @@
+.header
+song-name:Seven Samurai
+artist-name:Photek
+music-file:photek_-_seven_samurai.ogg
+difficulty-name:Muzukashii
+hit-window:30
+base-speed:0.9
+.end
+.begin
+@200 don
+*500 150 4 4
+^500 0.75
+@500 don
+@700 katsu
+@900 don
+@1000 don
+@1100 katsu
+@1300 don
+@1500 katsu
+@1700 don
+@1800 don
+@1900 katsu
+@2100 don
+@2300 katsu
+@2500 don
+@2600 don
+@2700 katsu
+@2900 don
+@3100 katsu
+@3300 don
+@3400 don
+@3500 katsu
+@3600 katsu
+@3700 don
+@3900 katsu
+@4100 don
+@4200 don
+@4300 katsu
+@4400 don
+@4500 don
+@4600 katsu
+@4700 katsu
+@4800 don
+@4900 don
+@5000 katsu
+@5100 don
+@5200 katsu
+@5300 don
+@5400 katsu
+@5500 katsu
+@5600 don
+@5700 katsu
+@5800 don
+@5900 don
+@6000 don
+@6100 katsu
+@6200 don
+@6300 katsu
+@6400 katsu
+^6600 0.9 
+@6600 don
+@6666 don
+@6733 don
+@6800 don
+@6866 katsu
+@6933 katsu
+@7000 katsu
+@7066 katsu
+@7133 don
+@7200 don
+@7266 don
+@7333 don
+@7400 katsu
+@7466 katsu
+@7533 katsu
+@7600 katsu
+@7666 don
+@7733 don
+@7800 katsu
+@7866 katsu
+@7933 don
+@8000 don
+@8066 katsu
+@8133 katsu
+@8200 don
+@8266 don
+@8333 katsu
+@8400 katsu
+@8466 don
+@8533 don
+@8600 katsu
+@8666 katsu
+@8733 don
+.end

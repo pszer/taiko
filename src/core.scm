@@ -39,9 +39,8 @@
   (set! renderer (sdl2:create-renderer! window -1 '(accelerated)))
   (check renderer)
   (load-core-texs +IMG_PATH+ renderer)
-  (taiko-init)
   (init-glyph-fonts)
-  (init-taiko-playfield)
+  (taiko-init)
   #t)
 
 (define (core-quit!)

@@ -21,7 +21,7 @@
 
 (define (dyn-vec-ref dv index)
   (if (or (< index 0) (>= index (dyn-vec-count dv)))
-	  (error "index out of bounds : DYNAMIC-VECTOR-REF" index count)
+	  (error "index out of bounds : DYNAMIC-VECTOR-REF" index (dyn-vec-count dv))
 	  (vector-ref (dyn-vec-vector dv) index)))
 (define (dyn-vec-set! dv index object)
   (if (or (< index 0) (>= index (dyn-vec-count dv)))
